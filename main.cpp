@@ -1,8 +1,4 @@
 #include <iostream>
-#include "Auto.h"
-#include "Cliente.h"
-#include "Fecha.h"
-#include "Alquiler.h"
 #include "Menu.h"
 
 
